@@ -9,3 +9,8 @@
 **/packages
 **/pubspec.lock
 **/.packages
+example/lib/test/second_todo.g.dart
+example/lib/test/second_todo.todo_reporter.g.part
+example/lib/todo.todo_reporter.g.part
+subpack/lib/third_todo.g.dart
+subpack/lib/third_todo.todo_reporter.g.part

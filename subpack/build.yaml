@@ -1,0 +1,6 @@
+targets:
+  subpack:subpack:
+    builders:
+      source_gen|combining_builder:
+        generate_for:
+          - lib/*

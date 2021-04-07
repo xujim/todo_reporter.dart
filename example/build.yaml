@@ -1,0 +1,7 @@
+targets:
+  example:example:
+    builders:
+      source_gen|combining_builder:
+        generate_for:
+          - lib/todo.dart
+          - lib/test/*
